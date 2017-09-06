@@ -1,0 +1,75 @@
+Ques 1:
+        B) 5
+
+Ques 2:
+        C) PHP interfaces to a number of relational databases such as MySQL, Oracle and Sybase but the
+          interface differs in each case.
+
+Ques 3:
+        B) /phptutor/index.php
+
+Ques 4:
+        B) Yes PHP supports two different types of regular expressions: POSIXextended and Perl Compatible
+      Regular Expressions (PCRE).
+
+Ques 5:
+        B) Rasmus Lerdorf
+
+   Andi Gutmans   and   Zeev Suraski
+
+
+Ques 6:
+        A) $s1 + $s2
+
+
+Ques 7:
+        B) somevar is 16
+
+
+Ques 8:
+        C) Hidden variables.
+
+
+Ques 9:
+        A) include ()
+
+
+Ques 10:
+         C) Null
+
+
+
+Ques 11:
+          C) shows the IP address of the visitor
+
+
+Ques 13:
+            B) True
+
+
+Ques 14:
+          A) database name
+
+
+Ques 15:
+          C) static
+
+
+Ques 16:
+          A) bool function_exists(functionname)
+
+
+Ques 17:
+          A) True
+
+
+Ques 18:
+          A) Yes
+
+
+Ques 19:
+         B) $
+
+
+Ques 20:
+         C) Donald Trump
